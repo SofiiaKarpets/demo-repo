@@ -11,4 +11,4 @@ Hello, world
 This is the string about how to add smith to commit 
 This line might be add.
 
-Dear Friend, I am here now.
+Dear Friend, I am here now. Hello!!!
