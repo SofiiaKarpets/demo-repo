@@ -6,3 +6,9 @@ I am still here. Let me know more!
 
 So, every day I am better than yesterday.
 
+Hello, world 
+
+This is the string about how to add smith to commit 
+This line might be add.
+
+Dear Friend, I am here now.
